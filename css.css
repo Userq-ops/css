@@ -1,0 +1,16 @@
+body
+body {
+    font-size: 20px;
+    color: yellow;
+} 
+
+div {
+    color: #887700; float: right; text-align: center; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 50px 20px;
+}
+    
